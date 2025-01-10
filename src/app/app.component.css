@@ -1,0 +1,35 @@
+table{
+    text-align:center
+}
+table {
+    width: 100%;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    margin: 5px;
+  }
+.custom-button {
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.primary-color {
+  background-color: #649edd !important; 
+  color: white;  
+}
+
+.primary-color:hover {
+  background-color: #0056b3 !important; 
+  color: #ffffff; 
+}
+
+.secondary-color {
+  background-color: #28a745; 
+  color: white;
+}
+
+.secondary-color:hover {
+  background-color: #218838;
+}
